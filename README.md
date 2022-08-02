@@ -19,5 +19,3 @@ To start developing
 ```bash
 node main.js
 ```
-```
-
